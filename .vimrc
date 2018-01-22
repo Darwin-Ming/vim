@@ -1,7 +1,7 @@
 " (>^.^<)
 set number
 syntax on
-imap <c-d> <esc>ddi
+imap <c-d> <esc>
 inoremap jk <esc>		" 在normal状态用 快速按下 jk 映射到 ESC
 inoremap <esc> <nop>		" 在normal状态让 ESC 键无效
 set hlsearch incsearch		" 搜索到匹陪字符串时高亮
